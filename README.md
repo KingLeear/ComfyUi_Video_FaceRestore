@@ -6,4 +6,6 @@ And for this one, you can upload the clothing you want the person in the video t
 <img width="1311" alt="Screenshot 2024-01-27 at 11 27 53 PM" src="https://github.com/KingLeear/ComfyUi_Video_FaceRestore/assets/131568889/33fbafa7-7aaa-4381-a070-6fa0e72ff852">
 
 
-[%youtube ZcKDL_NucMo %]
+You can see the result here:
+https://youtu.be/<VIDEO ZcKDL_NucMo>
+
