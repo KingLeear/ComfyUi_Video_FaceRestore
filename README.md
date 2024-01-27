@@ -7,5 +7,4 @@ And for this one, you can upload the clothing you want the person in the video t
 
 
 You can see the result here:
-https://youtu.be/<ZcKDL_NucMo>
-
+https://youtu.be/ZcKDL_NucMo
